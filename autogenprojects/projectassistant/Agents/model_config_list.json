@@ -1,0 +1,14 @@
+[
+    {
+        "model": "llama3",
+        "tags": ["generic", "conversational", "llama3"],
+        "api_key": "ollama",
+        "base_url": "http://localhost:11434/v1/"
+    },
+    {
+        "model": "codellama",
+        "tags": ["assistant", "coder"],
+        "api_key": "ollama",
+        "base_url": "http://localhost:11434/v1/"
+    }
+]
