@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../autogenprojects/agentorchestration"
+		}
+	],
+	"settings": {
+		"editor.fontFamily": "Consolas",
+		"editor.fontSize": 16,
+	}
+}
